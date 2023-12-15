@@ -44,10 +44,11 @@ only for products like Mobile Phones, Laptops, Smart Watches, Tablets, Airpods a
 2. Mobile Application and Extension:
 We provide a mobile application and a browser extension to show the data to our users. where they can search for the products, compare prices from various stores, see recommended products, give feedback to us.
 
-3. Development:
+4. Development:
 We developed our mobile application in FLUTTER and the browser extension in HTML/CSS and JAVASCRIPT. Our Backend is made in FLASK(PYTHON).
 
-4. Tools:
+5. Tools:
 We used Android Studio for our mobile application and VSCODE for browser extension. POSTMAN for Flask API Testing. Pycharm for API development.
 
 --------------------------------------------------------------------------------------------------------
+You Can Download the Dataset From : https://www.kaggle.com/datasets/hassanali699/e-commerce-tech-dataset/
