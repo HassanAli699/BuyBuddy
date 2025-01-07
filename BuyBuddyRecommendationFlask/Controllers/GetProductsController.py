@@ -11,7 +11,7 @@ def recommend_products(products, similarity, product_name, page=1, page_size=15)
         total_pages = ''
 
         if not matching_products.empty:
-            # Take the first matching product for simplicity (you can modify this logic as needed)
+            # Take the first matching product 
             product_index = matching_products.index[0]
             distances = similarity[product_index]
             products_list = sorted(list(enumerate(distances)), reverse=True, key=lambda x: x[1])
